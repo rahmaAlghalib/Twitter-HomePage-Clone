@@ -1,6 +1,5 @@
 # Twitter-HomePage-Clone
-My first project with HTML and CSS. I made a clone of Twitter home page
-<br/>This is a work in progress the page is not responsive and done yet.
+Using just HTML and CSS i made a clone of twitter's homepage 
 ---
 Here is a video of what i have done so far:
 <br/>
